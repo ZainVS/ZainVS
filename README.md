@@ -1,1 +1,1 @@
-I make different projects. My programs mainly are coded in Python.
+I make projects that are coded in Python.
